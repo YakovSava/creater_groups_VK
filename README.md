@@ -8,12 +8,13 @@ It was assumed that these groups would be created from the left pages, because h
 ## How to fill in data files?
 Initially, you need to fill in the *plugins\parameters\parameters file.json* and insert the file names and paths to the photos that will be used as the cover \avatar of the group (we will consider later). Files must be filled in this way:
 Proxy:
-``
+```
 ip:port:login:password
 
 ```
+
 Group names:
-``
+```
 Group names 1
 Group names 2
 Group names 3
