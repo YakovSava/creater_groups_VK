@@ -1,0 +1,8 @@
+{
+	"photo_path": "images/",
+	"photo_avatar": "special/avatar/",
+	"photo_cover": "special/cover/",
+	"proxys": "proxys.txt",
+	"accounts": "accounts.txt",
+	"names": "names.txt"
+}

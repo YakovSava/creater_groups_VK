@@ -1,0 +1,9 @@
+twocaptcha
+os
+PILlow
+asyncio
+aiofiles
+random
+aiohttp
+fake_useragent
+math
