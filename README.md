@@ -39,4 +39,4 @@ All photos except the last one (*album photo*) will be resized so that your moun
 2. *special_raw/avatar/* - for avatars
 3. *images_raw/* - for regular photos in albums
 
-<blackquote>This is a shitcode)</blackquote>
+<blackquote> This is a shitcode) </blackquote>
